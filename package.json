@@ -1,0 +1,6 @@
+{
+    "name": "io.peatman.cs-scope-functions",
+    "version": "0.1.0",
+    "displayName": "C# Scope Functions",
+    "description": "C# object extentions for functional programming. Inspired by Kotlin's scope functions."
+}
