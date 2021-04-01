@@ -1,6 +1,6 @@
 {
     "name": "ScopeFunctions",
-    "rootNamespace": "",
+    "rootNamespace": "ScopeFunctions",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
